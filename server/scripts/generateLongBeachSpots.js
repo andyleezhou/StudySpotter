@@ -1,4 +1,3 @@
-// scripts/generateLongBeachSpots.js
 import fs from 'fs';
 
 const generateLongBeachSpots = (count = 50) => {

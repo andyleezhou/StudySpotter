@@ -1,4 +1,7 @@
-// src/App.jsx
+// Andy Zhou
+// 015888299
+// CECS 429
+// Assignment 2B
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Home from './pages/Home';
 import SpotList from './pages/SpotList';
