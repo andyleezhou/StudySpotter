@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Shinjuku Library",
+    "city": "Tokyo",
+    "tags": ["quiet", "wifi", "outlets"],
+    "rating": 4.8,
+    "address": "1-7-1 Nishishinjuku, Shinjuku City, Tokyo",
+    "hours": "9:00 AM - 9:00 PM",
+    "description": "A peaceful public library in Shinjuku with dedicated quiet zones and strong Wi-Fi."
+  },
+  {
+    "name": "Cafe de L'Ambre",
+    "city": "Tokyo",
+    "tags": ["wifi", "coffee", "cozy"],
+    "rating": 4.5,
+    "address": "8-10-15 Ginza, Chuo City, Tokyo",
+    "hours": "11:00 AM - 10:00 PM",
+    "description": "Classic coffeehouse with rich brews and a quiet, relaxed atmosphere ideal for reading or writing."
+  },
+  {
+    "name": "New York Public Library - Main Branch",
+    "city": "New York",
+    "tags": ["quiet", "wifi", "historic"],
+    "rating": 4.9,
+    "address": "476 5th Ave, New York, NY 10018",
+    "hours": "10:00 AM - 6:00 PM",
+    "description": "Iconic library with beautiful architecture, ample seating, and a dedicated reading room."
+  },
+  {
+    "name": "Think Coffee - Mercer St",
+    "city": "New York",
+    "tags": ["wifi", "coffee", "outlets", "students"],
+    "rating": 4.4,
+    "address": "248 Mercer St, New York, NY 10012",
+    "hours": "7:00 AM - 10:00 PM",
+    "description": "Popular NYU-adjacent café with plenty of plug-in space and a study-friendly vibe."
+  },
+  {
+    "name": "Alfred Coffee",
+    "city": "Los Angeles",
+    "tags": ["wifi", "coffee", "instagrammable"],
+    "rating": 4.3,
+    "address": "8428 Melrose Pl, Los Angeles, CA 90069",
+    "hours": "8:00 AM - 8:00 PM",
+    "description": "Trendy LA café known for strong coffee and style — quieter during mid-day hours."
+  },
+  {
+    "name": "Santa Monica Public Library",
+    "city": "Los Angeles",
+    "tags": ["quiet", "wifi", "outlets", "parking"],
+    "rating": 4.6,
+    "address": "601 Santa Monica Blvd, Santa Monica, CA 90401",
+    "hours": "10:00 AM - 6:00 PM",
+    "description": "Modern library near the beach with a peaceful atmosphere, outlets at every desk, and plenty of parking."
+  }
+]

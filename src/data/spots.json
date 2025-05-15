@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Shinjuku Library",
+    "city": "Tokyo",
+    "tags": ["quiet", "wifi", "outlets"],
+    "rating": 4.8
+  },
+  {
+    "id": 2,
+    "name": "Roppongi Coffee House",
+    "city": "Tokyo",
+    "tags": ["wifi", "open late"],
+    "rating": 4.2
+  },
+  {
+    "id": 3,
+    "name": "Tsutaya Book Café",
+    "city": "Tokyo",
+    "tags": ["quiet", "wifi"],
+    "rating": 4.5
+  },
+  {
+    "id": 4,
+    "name": "Central Library",
+    "city": "Los Angeles",
+    "tags": ["quiet", "wifi", "outlets"],
+    "rating": 4.7
+  },
+  {
+    "id": 5,
+    "name": "Alfred Coffee",
+    "city": "Los Angeles",
+    "tags": ["wifi", "open late"],
+    "rating": 4.3
+  }
+]

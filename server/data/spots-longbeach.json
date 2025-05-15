@@ -1,0 +1,1102 @@
+[
+  {
+    "name": "Study Bar 1 – Long Beach",
+    "city": "Long Beach",
+    "tags": [
+      "quiet",
+      "wifi",
+      "outlets"
+    ],
+    "rating": 3.2,
+    "address": "8730 Long Beach Blvd, Long Beach, CA",
+    "hours": "8:00 AM - 9:00 PM",
+    "description": "A productive space in Long Beach.",
+    "latitude": 33.78737837995115,
+    "longitude": -118.17071085199203,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.17071085199203,
+        33.78737837995115
+      ]
+    }
+  },
+  {
+    "name": "Cafe Nook 2 – Long Beach",
+    "city": "Long Beach",
+    "tags": [
+      "coffee",
+      "outlets",
+      "wifi"
+    ],
+    "rating": 4.3,
+    "address": "8042 Long Beach Blvd, Long Beach, CA",
+    "hours": "8:00 AM - 9:00 PM",
+    "description": "A productive space in Long Beach.",
+    "latitude": 33.75090971209737,
+    "longitude": -118.18145440837792,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.18145440837792,
+        33.75090971209737
+      ]
+    }
+  },
+  {
+    "name": "Quiet Grind 3 – Long Beach",
+    "city": "Long Beach",
+    "tags": [
+      "coffee",
+      "outlets",
+      "quiet"
+    ],
+    "rating": 3.3,
+    "address": "6490 Long Beach Blvd, Long Beach, CA",
+    "hours": "8:00 AM - 9:00 PM",
+    "description": "A productive space in Long Beach.",
+    "latitude": 33.76313288521367,
+    "longitude": -118.20954769733505,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.20954769733505,
+        33.76313288521367
+      ]
+    }
+  },
+  {
+    "name": "Quiet Grind 4 – Long Beach",
+    "city": "Long Beach",
+    "tags": [
+      "outlets",
+      "cozy",
+      "wifi"
+    ],
+    "rating": 4.1,
+    "address": "5183 Long Beach Blvd, Long Beach, CA",
+    "hours": "8:00 AM - 9:00 PM",
+    "description": "A productive space in Long Beach.",
+    "latitude": 33.77138164343489,
+    "longitude": -118.20088446734479,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.20088446734479,
+        33.77138164343489
+      ]
+    }
+  },
+  {
+    "name": "Latte Lounge 5 – Long Beach",
+    "city": "Long Beach",
+    "tags": [
+      "coffee",
+      "quiet",
+      "wifi"
+    ],
+    "rating": 3.3,
+    "address": "2584 Long Beach Blvd, Long Beach, CA",
+    "hours": "8:00 AM - 9:00 PM",
+    "description": "A productive space in Long Beach.",
+    "latitude": 33.794330682237096,
+    "longitude": -118.18569674857036,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.18569674857036,
+        33.794330682237096
+      ]
+    }
+  },
+  {
+    "name": "Focus Room 6 – Long Beach",
+    "city": "Long Beach",
+    "tags": [
+      "quiet",
+      "wifi",
+      "cozy"
+    ],
+    "rating": 4.7,
+    "address": "6716 Long Beach Blvd, Long Beach, CA",
+    "hours": "8:00 AM - 9:00 PM",
+    "description": "A productive space in Long Beach.",
+    "latitude": 33.76219926259544,
+    "longitude": -118.19110664019986,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.19110664019986,
+        33.76219926259544
+      ]
+    }
+  },
+  {
+    "name": "Latte Lounge 7 – Long Beach",
+    "city": "Long Beach",
+    "tags": [
+      "coffee",
+      "outlets",
+      "wifi"
+    ],
+    "rating": 3.5,
+    "address": "124 Long Beach Blvd, Long Beach, CA",
+    "hours": "8:00 AM - 9:00 PM",
+    "description": "A productive space in Long Beach.",
+    "latitude": 33.76017977927912,
+    "longitude": -118.19843546036542,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.19843546036542,
+        33.76017977927912
+      ]
+    }
+  },
+  {
+    "name": "Cafe Nook 8 – Long Beach",
+    "city": "Long Beach",
+    "tags": [
+      "coffee",
+      "outlets",
+      "cozy"
+    ],
+    "rating": 3.1,
+    "address": "5590 Long Beach Blvd, Long Beach, CA",
+    "hours": "8:00 AM - 9:00 PM",
+    "description": "A productive space in Long Beach.",
+    "latitude": 33.74926345692611,
+    "longitude": -118.17340984016529,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.17340984016529,
+        33.74926345692611
+      ]
+    }
+  },
+  {
+    "name": "Quiet Grind 9 – Long Beach",
+    "city": "Long Beach",
+    "tags": [
+      "outlets",
+      "coffee",
+      "quiet"
+    ],
+    "rating": 4.5,
+    "address": "362 Long Beach Blvd, Long Beach, CA",
+    "hours": "8:00 AM - 9:00 PM",
+    "description": "A productive space in Long Beach.",
+    "latitude": 33.792387586261654,
+    "longitude": -118.17485520148064,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.17485520148064,
+        33.792387586261654
+      ]
+    }
+  },
+  {
+    "name": "Focus Room 10 – Long Beach",
+    "city": "Long Beach",
+    "tags": [
+      "outlets",
+      "quiet",
+      "cozy"
+    ],
+    "rating": 3.9,
+    "address": "4205 Long Beach Blvd, Long Beach, CA",
+    "hours": "8:00 AM - 9:00 PM",
+    "description": "A productive space in Long Beach.",
+    "latitude": 33.76647416982478,
+    "longitude": -118.1794654411403,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.1794654411403,
+        33.76647416982478
+      ]
+    }
+  },
+  {
+    "name": "Quiet Grind 11 – Long Beach",
+    "city": "Long Beach",
+    "tags": [
+      "quiet",
+      "cozy",
+      "coffee"
+    ],
+    "rating": 4,
+    "address": "8736 Long Beach Blvd, Long Beach, CA",
+    "hours": "8:00 AM - 9:00 PM",
+    "description": "A productive space in Long Beach.",
+    "latitude": 33.785807575300446,
+    "longitude": -118.19690030580222,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.19690030580222,
+        33.785807575300446
+      ]
+    }
+  },
+  {
+    "name": "Latte Lounge 12 – Long Beach",
+    "city": "Long Beach",
+    "tags": [
+      "quiet",
+      "wifi",
+      "cozy"
+    ],
+    "rating": 4.3,
+    "address": "111 Long Beach Blvd, Long Beach, CA",
+    "hours": "8:00 AM - 9:00 PM",
+    "description": "A productive space in Long Beach.",
+    "latitude": 33.789364497767416,
+    "longitude": -118.1999907441266,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.1999907441266,
+        33.789364497767416
+      ]
+    }
+  },
+  {
+    "name": "Study Bar 13 – Long Beach",
+    "city": "Long Beach",
+    "tags": [
+      "coffee",
+      "outlets",
+      "cozy"
+    ],
+    "rating": 4.9,
+    "address": "5186 Long Beach Blvd, Long Beach, CA",
+    "hours": "8:00 AM - 9:00 PM",
+    "description": "A productive space in Long Beach.",
+    "latitude": 33.77413213022509,
+    "longitude": -118.16899107683732,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.16899107683732,
+        33.77413213022509
+      ]
+    }
+  },
+  {
+    "name": "Cafe Nook 14 – Long Beach",
+    "city": "Long Beach",
+    "tags": [
+      "coffee",
+      "wifi",
+      "outlets"
+    ],
+    "rating": 4,
+    "address": "4931 Long Beach Blvd, Long Beach, CA",
+    "hours": "8:00 AM - 9:00 PM",
+    "description": "A productive space in Long Beach.",
+    "latitude": 33.76509127880227,
+    "longitude": -118.17169488293355,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.17169488293355,
+        33.76509127880227
+      ]
+    }
+  },
+  {
+    "name": "Quiet Grind 15 – Long Beach",
+    "city": "Long Beach",
+    "tags": [
+      "quiet",
+      "cozy",
+      "outlets"
+    ],
+    "rating": 4.9,
+    "address": "4273 Long Beach Blvd, Long Beach, CA",
+    "hours": "8:00 AM - 9:00 PM",
+    "description": "A productive space in Long Beach.",
+    "latitude": 33.78691979980043,
+    "longitude": -118.17569015542897,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.17569015542897,
+        33.78691979980043
+      ]
+    }
+  },
+  {
+    "name": "Study Bar 16 – Long Beach",
+    "city": "Long Beach",
+    "tags": [
+      "coffee",
+      "quiet",
+      "cozy"
+    ],
+    "rating": 3.8,
+    "address": "4653 Long Beach Blvd, Long Beach, CA",
+    "hours": "8:00 AM - 9:00 PM",
+    "description": "A productive space in Long Beach.",
+    "latitude": 33.757137382683766,
+    "longitude": -118.19262600324653,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.19262600324653,
+        33.757137382683766
+      ]
+    }
+  },
+  {
+    "name": "Focus Room 17 – Long Beach",
+    "city": "Long Beach",
+    "tags": [
+      "coffee",
+      "outlets",
+      "quiet"
+    ],
+    "rating": 3.7,
+    "address": "7071 Long Beach Blvd, Long Beach, CA",
+    "hours": "8:00 AM - 9:00 PM",
+    "description": "A productive space in Long Beach.",
+    "latitude": 33.7947175771315,
+    "longitude": -118.1861000331081,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.1861000331081,
+        33.7947175771315
+      ]
+    }
+  },
+  {
+    "name": "Quiet Grind 18 – Long Beach",
+    "city": "Long Beach",
+    "tags": [
+      "wifi",
+      "quiet",
+      "outlets"
+    ],
+    "rating": 3.7,
+    "address": "1455 Long Beach Blvd, Long Beach, CA",
+    "hours": "8:00 AM - 9:00 PM",
+    "description": "A productive space in Long Beach.",
+    "latitude": 33.759613688412465,
+    "longitude": -118.1723110911769,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.1723110911769,
+        33.759613688412465
+      ]
+    }
+  },
+  {
+    "name": "Quiet Grind 19 – Long Beach",
+    "city": "Long Beach",
+    "tags": [
+      "wifi",
+      "coffee",
+      "quiet"
+    ],
+    "rating": 4.5,
+    "address": "6019 Long Beach Blvd, Long Beach, CA",
+    "hours": "8:00 AM - 9:00 PM",
+    "description": "A productive space in Long Beach.",
+    "latitude": 33.74542786428635,
+    "longitude": -118.17941369121934,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.17941369121934,
+        33.74542786428635
+      ]
+    }
+  },
+  {
+    "name": "Focus Room 20 – Long Beach",
+    "city": "Long Beach",
+    "tags": [
+      "wifi",
+      "coffee",
+      "quiet"
+    ],
+    "rating": 3.1,
+    "address": "8187 Long Beach Blvd, Long Beach, CA",
+    "hours": "8:00 AM - 9:00 PM",
+    "description": "A productive space in Long Beach.",
+    "latitude": 33.79230612106193,
+    "longitude": -118.17410892037599,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.17410892037599,
+        33.79230612106193
+      ]
+    }
+  },
+  {
+    "name": "Focus Room 21 – Long Beach",
+    "city": "Long Beach",
+    "tags": [
+      "wifi",
+      "cozy",
+      "outlets"
+    ],
+    "rating": 3.9,
+    "address": "5012 Long Beach Blvd, Long Beach, CA",
+    "hours": "8:00 AM - 9:00 PM",
+    "description": "A productive space in Long Beach.",
+    "latitude": 33.789802494274426,
+    "longitude": -118.21749836416497,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.21749836416497,
+        33.789802494274426
+      ]
+    }
+  },
+  {
+    "name": "Study Bar 22 – Long Beach",
+    "city": "Long Beach",
+    "tags": [
+      "wifi",
+      "coffee",
+      "cozy"
+    ],
+    "rating": 4.2,
+    "address": "5832 Long Beach Blvd, Long Beach, CA",
+    "hours": "8:00 AM - 9:00 PM",
+    "description": "A productive space in Long Beach.",
+    "latitude": 33.74551013354854,
+    "longitude": -118.18988669079974,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.18988669079974,
+        33.74551013354854
+      ]
+    }
+  },
+  {
+    "name": "Study Bar 23 – Long Beach",
+    "city": "Long Beach",
+    "tags": [
+      "coffee",
+      "wifi",
+      "quiet"
+    ],
+    "rating": 3.9,
+    "address": "5539 Long Beach Blvd, Long Beach, CA",
+    "hours": "8:00 AM - 9:00 PM",
+    "description": "A productive space in Long Beach.",
+    "latitude": 33.75592220710212,
+    "longitude": -118.17252698478829,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.17252698478829,
+        33.75592220710212
+      ]
+    }
+  },
+  {
+    "name": "Study Bar 24 – Long Beach",
+    "city": "Long Beach",
+    "tags": [
+      "coffee",
+      "wifi",
+      "quiet"
+    ],
+    "rating": 4.2,
+    "address": "553 Long Beach Blvd, Long Beach, CA",
+    "hours": "8:00 AM - 9:00 PM",
+    "description": "A productive space in Long Beach.",
+    "latitude": 33.76709937411482,
+    "longitude": -118.17863130728496,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.17863130728496,
+        33.76709937411482
+      ]
+    }
+  },
+  {
+    "name": "Quiet Grind 25 – Long Beach",
+    "city": "Long Beach",
+    "tags": [
+      "coffee",
+      "wifi",
+      "quiet"
+    ],
+    "rating": 4.5,
+    "address": "900 Long Beach Blvd, Long Beach, CA",
+    "hours": "8:00 AM - 9:00 PM",
+    "description": "A productive space in Long Beach.",
+    "latitude": 33.78779515446551,
+    "longitude": -118.18037542894565,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.18037542894565,
+        33.78779515446551
+      ]
+    }
+  },
+  {
+    "name": "Focus Room 26 – Long Beach",
+    "city": "Long Beach",
+    "tags": [
+      "coffee",
+      "cozy",
+      "wifi"
+    ],
+    "rating": 3.2,
+    "address": "2141 Long Beach Blvd, Long Beach, CA",
+    "hours": "8:00 AM - 9:00 PM",
+    "description": "A productive space in Long Beach.",
+    "latitude": 33.76245991830315,
+    "longitude": -118.19195120098993,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.19195120098993,
+        33.76245991830315
+      ]
+    }
+  },
+  {
+    "name": "Latte Lounge 27 – Long Beach",
+    "city": "Long Beach",
+    "tags": [
+      "wifi",
+      "quiet",
+      "outlets"
+    ],
+    "rating": 4.7,
+    "address": "8740 Long Beach Blvd, Long Beach, CA",
+    "hours": "8:00 AM - 9:00 PM",
+    "description": "A productive space in Long Beach.",
+    "latitude": 33.79478274140801,
+    "longitude": -118.20911586547143,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.20911586547143,
+        33.79478274140801
+      ]
+    }
+  },
+  {
+    "name": "Study Bar 28 – Long Beach",
+    "city": "Long Beach",
+    "tags": [
+      "outlets",
+      "quiet",
+      "coffee"
+    ],
+    "rating": 3.2,
+    "address": "3886 Long Beach Blvd, Long Beach, CA",
+    "hours": "8:00 AM - 9:00 PM",
+    "description": "A productive space in Long Beach.",
+    "latitude": 33.773214632571296,
+    "longitude": -118.18407324920868,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.18407324920868,
+        33.773214632571296
+      ]
+    }
+  },
+  {
+    "name": "Quiet Grind 29 – Long Beach",
+    "city": "Long Beach",
+    "tags": [
+      "coffee",
+      "cozy",
+      "quiet"
+    ],
+    "rating": 4.3,
+    "address": "8085 Long Beach Blvd, Long Beach, CA",
+    "hours": "8:00 AM - 9:00 PM",
+    "description": "A productive space in Long Beach.",
+    "latitude": 33.74942974329862,
+    "longitude": -118.17143119484481,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.17143119484481,
+        33.74942974329862
+      ]
+    }
+  },
+  {
+    "name": "Latte Lounge 30 – Long Beach",
+    "city": "Long Beach",
+    "tags": [
+      "wifi",
+      "coffee",
+      "outlets"
+    ],
+    "rating": 3.6,
+    "address": "8367 Long Beach Blvd, Long Beach, CA",
+    "hours": "8:00 AM - 9:00 PM",
+    "description": "A productive space in Long Beach.",
+    "latitude": 33.78339316808445,
+    "longitude": -118.18266421432858,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.18266421432858,
+        33.78339316808445
+      ]
+    }
+  },
+  {
+    "name": "Quiet Grind 31 – Long Beach",
+    "city": "Long Beach",
+    "tags": [
+      "cozy",
+      "outlets",
+      "coffee"
+    ],
+    "rating": 3.5,
+    "address": "6924 Long Beach Blvd, Long Beach, CA",
+    "hours": "8:00 AM - 9:00 PM",
+    "description": "A productive space in Long Beach.",
+    "latitude": 33.74569661061888,
+    "longitude": -118.21695980724122,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.21695980724122,
+        33.74569661061888
+      ]
+    }
+  },
+  {
+    "name": "Cafe Nook 32 – Long Beach",
+    "city": "Long Beach",
+    "tags": [
+      "cozy",
+      "wifi",
+      "outlets"
+    ],
+    "rating": 3.4,
+    "address": "2318 Long Beach Blvd, Long Beach, CA",
+    "hours": "8:00 AM - 9:00 PM",
+    "description": "A productive space in Long Beach.",
+    "latitude": 33.791585718612595,
+    "longitude": -118.19960388003763,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.19960388003763,
+        33.791585718612595
+      ]
+    }
+  },
+  {
+    "name": "Focus Room 33 – Long Beach",
+    "city": "Long Beach",
+    "tags": [
+      "wifi",
+      "cozy",
+      "quiet"
+    ],
+    "rating": 4.9,
+    "address": "2506 Long Beach Blvd, Long Beach, CA",
+    "hours": "8:00 AM - 9:00 PM",
+    "description": "A productive space in Long Beach.",
+    "latitude": 33.79120832702347,
+    "longitude": -118.20653146991233,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.20653146991233,
+        33.79120832702347
+      ]
+    }
+  },
+  {
+    "name": "Focus Room 34 – Long Beach",
+    "city": "Long Beach",
+    "tags": [
+      "wifi",
+      "cozy",
+      "quiet"
+    ],
+    "rating": 3.8,
+    "address": "303 Long Beach Blvd, Long Beach, CA",
+    "hours": "8:00 AM - 9:00 PM",
+    "description": "A productive space in Long Beach.",
+    "latitude": 33.76501364855438,
+    "longitude": -118.18779715690374,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.18779715690374,
+        33.76501364855438
+      ]
+    }
+  },
+  {
+    "name": "Study Bar 35 – Long Beach",
+    "city": "Long Beach",
+    "tags": [
+      "outlets",
+      "coffee",
+      "quiet"
+    ],
+    "rating": 4.5,
+    "address": "6832 Long Beach Blvd, Long Beach, CA",
+    "hours": "8:00 AM - 9:00 PM",
+    "description": "A productive space in Long Beach.",
+    "latitude": 33.78726564123799,
+    "longitude": -118.17565134990012,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.17565134990012,
+        33.78726564123799
+      ]
+    }
+  },
+  {
+    "name": "Focus Room 36 – Long Beach",
+    "city": "Long Beach",
+    "tags": [
+      "outlets",
+      "coffee",
+      "quiet"
+    ],
+    "rating": 3.8,
+    "address": "398 Long Beach Blvd, Long Beach, CA",
+    "hours": "8:00 AM - 9:00 PM",
+    "description": "A productive space in Long Beach.",
+    "latitude": 33.75855483799019,
+    "longitude": -118.20452798954531,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.20452798954531,
+        33.75855483799019
+      ]
+    }
+  },
+  {
+    "name": "Quiet Grind 37 – Long Beach",
+    "city": "Long Beach",
+    "tags": [
+      "quiet",
+      "cozy",
+      "wifi"
+    ],
+    "rating": 3.6,
+    "address": "927 Long Beach Blvd, Long Beach, CA",
+    "hours": "8:00 AM - 9:00 PM",
+    "description": "A productive space in Long Beach.",
+    "latitude": 33.78672486624772,
+    "longitude": -118.20571051108539,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.20571051108539,
+        33.78672486624772
+      ]
+    }
+  },
+  {
+    "name": "Quiet Grind 38 – Long Beach",
+    "city": "Long Beach",
+    "tags": [
+      "cozy",
+      "outlets",
+      "quiet"
+    ],
+    "rating": 4.2,
+    "address": "4261 Long Beach Blvd, Long Beach, CA",
+    "hours": "8:00 AM - 9:00 PM",
+    "description": "A productive space in Long Beach.",
+    "latitude": 33.77153986246516,
+    "longitude": -118.18411700856356,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.18411700856356,
+        33.77153986246516
+      ]
+    }
+  },
+  {
+    "name": "Study Bar 39 – Long Beach",
+    "city": "Long Beach",
+    "tags": [
+      "cozy",
+      "outlets",
+      "wifi"
+    ],
+    "rating": 4.7,
+    "address": "5081 Long Beach Blvd, Long Beach, CA",
+    "hours": "8:00 AM - 9:00 PM",
+    "description": "A productive space in Long Beach.",
+    "latitude": 33.746613712941155,
+    "longitude": -118.19970599572561,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.19970599572561,
+        33.746613712941155
+      ]
+    }
+  },
+  {
+    "name": "Latte Lounge 40 – Long Beach",
+    "city": "Long Beach",
+    "tags": [
+      "coffee",
+      "outlets",
+      "wifi"
+    ],
+    "rating": 4.4,
+    "address": "2936 Long Beach Blvd, Long Beach, CA",
+    "hours": "8:00 AM - 9:00 PM",
+    "description": "A productive space in Long Beach.",
+    "latitude": 33.794345683529386,
+    "longitude": -118.20016138074179,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.20016138074179,
+        33.794345683529386
+      ]
+    }
+  },
+  {
+    "name": "Focus Room 41 – Long Beach",
+    "city": "Long Beach",
+    "tags": [
+      "cozy",
+      "quiet",
+      "wifi"
+    ],
+    "rating": 4.4,
+    "address": "2962 Long Beach Blvd, Long Beach, CA",
+    "hours": "8:00 AM - 9:00 PM",
+    "description": "A productive space in Long Beach.",
+    "latitude": 33.779820601543825,
+    "longitude": -118.18426505965996,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.18426505965996,
+        33.779820601543825
+      ]
+    }
+  },
+  {
+    "name": "Quiet Grind 42 – Long Beach",
+    "city": "Long Beach",
+    "tags": [
+      "outlets",
+      "wifi",
+      "quiet"
+    ],
+    "rating": 3.8,
+    "address": "1315 Long Beach Blvd, Long Beach, CA",
+    "hours": "8:00 AM - 9:00 PM",
+    "description": "A productive space in Long Beach.",
+    "latitude": 33.76703222367637,
+    "longitude": -118.18326515450525,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.18326515450525,
+        33.76703222367637
+      ]
+    }
+  },
+  {
+    "name": "Latte Lounge 43 – Long Beach",
+    "city": "Long Beach",
+    "tags": [
+      "coffee",
+      "cozy",
+      "wifi"
+    ],
+    "rating": 3.5,
+    "address": "3793 Long Beach Blvd, Long Beach, CA",
+    "hours": "8:00 AM - 9:00 PM",
+    "description": "A productive space in Long Beach.",
+    "latitude": 33.77872563786606,
+    "longitude": -118.17940318071999,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.17940318071999,
+        33.77872563786606
+      ]
+    }
+  },
+  {
+    "name": "Quiet Grind 44 – Long Beach",
+    "city": "Long Beach",
+    "tags": [
+      "outlets",
+      "wifi",
+      "quiet"
+    ],
+    "rating": 3.3,
+    "address": "4738 Long Beach Blvd, Long Beach, CA",
+    "hours": "8:00 AM - 9:00 PM",
+    "description": "A productive space in Long Beach.",
+    "latitude": 33.778300615695784,
+    "longitude": -118.1715826827463,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.1715826827463,
+        33.778300615695784
+      ]
+    }
+  },
+  {
+    "name": "Focus Room 45 – Long Beach",
+    "city": "Long Beach",
+    "tags": [
+      "outlets",
+      "wifi",
+      "coffee"
+    ],
+    "rating": 4.6,
+    "address": "5381 Long Beach Blvd, Long Beach, CA",
+    "hours": "8:00 AM - 9:00 PM",
+    "description": "A productive space in Long Beach.",
+    "latitude": 33.79432640514937,
+    "longitude": -118.20123839528958,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.20123839528958,
+        33.79432640514937
+      ]
+    }
+  },
+  {
+    "name": "Quiet Grind 46 – Long Beach",
+    "city": "Long Beach",
+    "tags": [
+      "outlets",
+      "quiet",
+      "cozy"
+    ],
+    "rating": 4,
+    "address": "8271 Long Beach Blvd, Long Beach, CA",
+    "hours": "8:00 AM - 9:00 PM",
+    "description": "A productive space in Long Beach.",
+    "latitude": 33.77929444502574,
+    "longitude": -118.20008797634088,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.20008797634088,
+        33.77929444502574
+      ]
+    }
+  },
+  {
+    "name": "Quiet Grind 47 – Long Beach",
+    "city": "Long Beach",
+    "tags": [
+      "outlets",
+      "wifi",
+      "coffee"
+    ],
+    "rating": 3.6,
+    "address": "1703 Long Beach Blvd, Long Beach, CA",
+    "hours": "8:00 AM - 9:00 PM",
+    "description": "A productive space in Long Beach.",
+    "latitude": 33.786260206407185,
+    "longitude": -118.200809997366,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.200809997366,
+        33.786260206407185
+      ]
+    }
+  },
+  {
+    "name": "Latte Lounge 48 – Long Beach",
+    "city": "Long Beach",
+    "tags": [
+      "quiet",
+      "coffee",
+      "wifi"
+    ],
+    "rating": 3.5,
+    "address": "5796 Long Beach Blvd, Long Beach, CA",
+    "hours": "8:00 AM - 9:00 PM",
+    "description": "A productive space in Long Beach.",
+    "latitude": 33.75046076678131,
+    "longitude": -118.2181845321019,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.2181845321019,
+        33.75046076678131
+      ]
+    }
+  },
+  {
+    "name": "Quiet Grind 49 – Long Beach",
+    "city": "Long Beach",
+    "tags": [
+      "outlets",
+      "wifi",
+      "cozy"
+    ],
+    "rating": 3.6,
+    "address": "447 Long Beach Blvd, Long Beach, CA",
+    "hours": "8:00 AM - 9:00 PM",
+    "description": "A productive space in Long Beach.",
+    "latitude": 33.79479339304808,
+    "longitude": -118.21644477293191,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.21644477293191,
+        33.79479339304808
+      ]
+    }
+  },
+  {
+    "name": "Cafe Nook 50 – Long Beach",
+    "city": "Long Beach",
+    "tags": [
+      "outlets",
+      "wifi",
+      "quiet"
+    ],
+    "rating": 3.6,
+    "address": "8034 Long Beach Blvd, Long Beach, CA",
+    "hours": "8:00 AM - 9:00 PM",
+    "description": "A productive space in Long Beach.",
+    "latitude": 33.7517272824969,
+    "longitude": -118.21617922341963,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -118.21617922341963,
+        33.7517272824969
+      ]
+    }
+  }
+]
